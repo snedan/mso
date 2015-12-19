@@ -1,4 +1,3 @@
-mso
 
 What Does Name "Sneden" Mean
 
