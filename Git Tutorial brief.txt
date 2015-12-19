@@ -24,3 +24,11 @@ in git bash while viewing log or committing  u will see another screen, to exit 
 press ESC and press : then type wq(save and exit)
 
 This is not complete will update when i have more information
+
+###########################################################################################################
+
+http://githowto.com/
+
+# this is the link for git bash tutorial contains some useful info 
+
+###########################################################################################################
