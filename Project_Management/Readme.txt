@@ -14,3 +14,6 @@ Sub Folders in this Directory
 		* Firmware          : Contains the embedded firmware hex
 		* Gui		    : Contains the VC++ exe
 		* Hardware          : Contains the latest schematic and pcb layout and BOM
+			* BOM       : Contains the BOM
+			* PCB       : Contains the pcb layout
+			* Schematic : Contains the latest schematic
