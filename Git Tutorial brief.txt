@@ -20,4 +20,7 @@ git commit   /* now all the changes will be commited */
 git push     /* this will push all your changes to server */
 
 
+in git bash while viewing log or committing  u will see another screen, to exit that screen u have to 
+press ESC and press : then type wq(save and exit)
+
 This is not complete will update when i have more information
