@@ -1,0 +1,23 @@
+i use git extension as my gui/\.
+
+first clone the repo.
+
+
+from git bash go to your local repo 
+
+now navigate to ur desired folder where u have changes
+
+use cd command to navigate
+
+if thats a folder type command
+
+	git add .  /* This will add all the folder contents to git */
+
+now type 
+
+git commit   /* now all the changes will be commited */
+
+git push     /* this will push all your changes to server */
+
+
+This is not complete will update when i have more information
