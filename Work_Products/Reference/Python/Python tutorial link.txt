@@ -1,0 +1,1 @@
+http://www.pydev.org/manual_101_tips.html
