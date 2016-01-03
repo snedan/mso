@@ -16,3 +16,5 @@ http://eraycanli.com/2015/08/19/stm32-gnu-arm-gcc-toolchain-with-eclipse-stlink-
 /* This is a link to lookup function pointer table */
 
 http://www.barrgroup.com/Embedded-Systems/How-To/C-Function-Pointers
+
+http://cboard.cprogramming.com/c-programming/150746-table-lookup-functions.html
